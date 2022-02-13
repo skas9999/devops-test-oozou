@@ -1,0 +1,8 @@
+versions.tf
+.idea
+.terraform
+terraform.tfstate
+state.json
+.DS_Store
+.terraform.lock.hcl
+.envrc
